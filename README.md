@@ -21,7 +21,7 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 ### 📜 Responsive Web Design
 
 <div align="center">
-    <img src="Certifications/responsiveWebDesign.png" width="585">
+    <img src="Certifications/responsiveWebDesign.png" width="650">
 </div>
 
 <br>
