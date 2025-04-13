@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="500">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" width="900">
 </div>
 
 <br>
