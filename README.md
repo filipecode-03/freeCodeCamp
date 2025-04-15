@@ -31,7 +31,9 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 - [Cafe Menu](https://filipecode-03.github.io/cafemenu/index.html)
 - [Form](https://filipecode-03.github.io/form/index.html)
 - [Survey Form](https://filipecode-03.github.io/surveyForm/index.html)
-- 
+- [flexbox photo gallery](https://filipecode-03.github.io/flexboxphotogallery/index.html)
+- []()
+- []()
 
 <br>
 
