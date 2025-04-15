@@ -29,12 +29,12 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 ### Projects
 
 - [Cafe Menu](https://filipecode-03.github.io/cafemenu/index.html)
-- [form](https://filipecode-03.github.io/form/index.html)
-- []
+- [Form](https://filipecode-03.github.io/form/index.html)
+- [Survey Form]()
 - 
 
 <br>
-<hr>
+---
 <br>
 
 This repository is a demonstration of my ongoing commitment to learning and practicing software development. I am grateful to freeCodeCamp for providing free, high-quality educational resources to the global community.
