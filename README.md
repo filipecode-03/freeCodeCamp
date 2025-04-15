@@ -34,7 +34,9 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 - 
 
 <br>
+
 ---
+
 <br>
 
 This repository is a demonstration of my ongoing commitment to learning and practicing software development. I am grateful to freeCodeCamp for providing free, high-quality educational resources to the global community.
