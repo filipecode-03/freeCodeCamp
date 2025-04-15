@@ -35,7 +35,7 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 - [Documentation](https://filipecode-03.github.io/documentation/index.html)
 - [Magazine](https://filipecode-03.github.io/Magazine/index.html)
 - [product Landing Page](https://filipecode-03.github.io/productLandingPage/)
-- []()
+- [Landing Page](https://filipecode-03.github.io/landingPage/)
 
 <br>
 
