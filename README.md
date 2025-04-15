@@ -33,7 +33,7 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 - [Survey Form](https://filipecode-03.github.io/surveyForm/index.html)
 - [Flexbox photo gallery](https://filipecode-03.github.io/flexboxphotogallery/index.html)
 - [Questionnaire](https://filipecode-03.github.io/questionnaire/index.html)
-- [Tribute Page](https://filipecode-03.github.io/tributePage/index.html)
+- [Tribute Page](https://filipecode-03.github.io/tributePage/)
 - []()
 - []()
 - []()
