@@ -6,8 +6,6 @@
 
 This repository is dedicated to storing all the codes, projects, and certifications I have earned during my learning journey on <a href="https://www.freecodecamp.org/">freeCodeCamp</a>. Here, you will find an organized collection of exercises and projects developed throughout the courses offered by the platform.
 
----
-
 ## 🏫 About freeCodeCamp
 
 <a href="https://www.freecodecamp.org/">freeCodeCamp</a> is a nonprofit educational organization that provides an interactive learning platform for people around the world who want to learn to code. Founded by Quincy Larson in 2014, freeCodeCamp's mission is to make software development education accessible to everyone, regardless of location or financial situation.
@@ -36,7 +34,7 @@ As I progress through freeCodeCamp courses, I earn certifications that prove the
 - [Tribute Page](https://filipecode-03.github.io/tributePage/)
 - [Documentation](https://filipecode-03.github.io/documentation/index.html)
 - [Magazine](https://filipecode-03.github.io/Magazine/index.html)
-- []()
+- [product Landing Page](https://filipecode-03.github.io/productLandingPage/)
 - []()
 
 <br>
